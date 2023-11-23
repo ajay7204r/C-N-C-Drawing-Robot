@@ -1,0 +1,18 @@
+Stepper Motors:
+
+Stepper motors control the movement of the robot along the X and Y axes. Connect these motors to the appropriate driver modules.
+Motor Drivers:
+
+Use motor driver modules (such as A4988 or DRV8825) to control the stepper motors. These drivers interpret signals from the Arduino and convert them into precise movements.
+Frame and Carriage:
+
+Construct a stable frame to support the motors and other components. Attach a carriage to the motors to hold the drawing tool.
+Drawing Tool:
+
+The tool could be a pen, pencil, or other writing instrument. It needs to be attached securely to the carriage.
+Limit Switches:
+
+Implement limit switches at the ends of each axis to detect when the robot reaches its limits and prevent damage.
+Power Supply:
+
+Provide a suitable power supply for the motors and other components.

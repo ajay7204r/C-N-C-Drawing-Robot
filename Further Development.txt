@@ -1,0 +1,15 @@
+Input Commands:
+
+Implement a way to receive drawing instructions, either via serial communication, SD card, or other means.
+G-code Interpreter:
+
+If you want to use G-code, create a more advanced interpreter that can handle different G-code commands for precise control.
+Calibration:
+
+Add calibration routines to ensure the robot moves accurately according to your defined coordinate system.
+Error Handling:
+
+Implement error handling mechanisms to handle unexpected situations, such as hitting a limit switch or losing power.
+User Interface:
+
+Consider creating a user interface for users to input drawings or G-code commands more conveniently.

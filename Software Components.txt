@@ -1,0 +1,6 @@
+Arduino Code:
+
+Write Arduino code to control the stepper motors based on input commands. This code will interpret the drawing instructions and convert them into precise motor movements. You may use the Arduino IDE for this.
+G-code Interpreter:
+
+If you want to accept G-code commands (a common language for CNC machines), you'll need a G-code interpreter in your Arduino code. This interpreter will convert G-code commands into motor movements.
